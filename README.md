@@ -2,7 +2,14 @@
 
 ## Description
 
-Refactoring an existing webpage of a marketing agency to follows accessibility standards, so that the site is optimized for search engines.
+Refactoring an existing webpage of a marketing agency by following accessibility standards, so that the site is optimized for search engines and accessible to people with disabilities using assistive technologies such as video captions, screen readers, and braille keyboards.
+
+## User Story
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
 
 ## Credits
 
